@@ -1,0 +1,20 @@
+{
+  "name": "blood-drive",
+  "version": "1.0.0",
+  "description": "This MERN stack application is built to store information about patients' blood types and donors. This information will be fitted to a sorting algorithm to match compatible blood types between donors and receivers. Sessions are used to ensure that donors can only donate once using an authenticated username and password.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosC074/Blood-Drive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosC074/Blood-Drive/issues"
+  },
+  "homepage": "https://github.com/CarlosC074/Blood-Drive#readme"
+}
